@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/logout"
+        android:title="logout"
+        />
+    <item
+        android:id="@+id/userCv"
+        android:title="User Cv"
+
+        /> <item
+        android:id="@+id/allJobs"
+        android:title="All Jobs"
+
+        />
+<item
+        android:id="@+id/favJobs"
+        android:title="Favorites"
+
+        /><item
+        android:id="@+id/AppliedJobs"
+        android:title="Applied Jobs"
+
+        />
+
+</menu>

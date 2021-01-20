@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39238066701",
+    "firebase_url": "https://hr-wazzaf.firebaseio.com",
+    "project_id": "hr-wazzaf",
+    "storage_bucket": "hr-wazzaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39238066701:android:57763dfc44ef2027972b44",
+        "android_client_info": {
+          "package_name": "net.senior.hr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39238066701-k863vl0pru4mpnkbms5nfb6a09qkavlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcgQXX6i_jGbQT9oBOTLW9B4UpfzZblw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39238066701-k863vl0pru4mpnkbms5nfb6a09qkavlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
